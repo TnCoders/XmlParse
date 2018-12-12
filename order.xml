@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ConsignorData>
+    <Ordernumber>247480</Ordernumber>
+    <Name1Receiver>Naja  Johansen</Name1Receiver>
+    <Name2Receiver>Naja  Johansen</Name2Receiver>
+    <Adress1Receiver>Østertoften 153</Adress1Receiver>
+    <Adress2Receiver />
+    <PostalcodeReceiver>7400</PostalcodeReceiver>
+    <CityReceiver>Herning</CityReceiver>
+    <CountrycodeReceiver>DK</CountrycodeReceiver>
+    <PhoneReceiver>+4527857343</PhoneReceiver>
+    <CustomernumberReceiver />
+    <EmailadressReceiver>naja.johansen@bestseller.com</EmailadressReceiver>
+    <AttentionpersonReceiver>Naja  Johansen</AttentionpersonReceiver>
+    <CodAmount>428,80</CodAmount>
+    <MessageDriver />
+    <MessageCarrier />
+    <MessageReceiver />
+    <CarrierCode>4500</CarrierCode>
+    <Deliverydate>10.12.2018</Deliverydate>
+    <CustNoDropPoint>95709</CustNoDropPoint>
+    <Name1DropPoint>Lind Bageri</Name1DropPoint>
+    <Adress1DropPoint>Lind Hovedgade 19 </Adress1DropPoint>
+    <PostalcodeDropPoint>7400</PostalcodeDropPoint>
+    <CityDropPoint>Herning</CityDropPoint>
+    <CountrycodeDropPoint>dk</CountrycodeDropPoint>
+    <PhoneDropPoint />
+    <StillesUdenKvittering>Nej</StillesUdenKvittering>
+    <Branch>rin</Branch>
+    <products>
+        <product>
+            <nr>1</nr>
+            <varenr>1439442</varenr>
+            <varetext1>Fiskars universalsaks</varetext1>
+            <varetext2 />
+            <varetext3 />
+            <antal>4.00</antal>
+            <unit>stk</unit>
+        </product>
+    </products>
+</ConsignorData>
